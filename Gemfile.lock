@@ -33,6 +33,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   byebug
@@ -40,7 +41,7 @@ DEPENDENCIES
   rspec (~> 3.8)
 
 RUBY VERSION
-   ruby 2.6.6p146
+   ruby 2.7.7p221
 
 BUNDLED WITH
    1.17.3
